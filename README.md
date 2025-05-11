@@ -52,7 +52,7 @@ kittytheme          # Fuzzy-pick a theme with preview using fzf
 kittytheme Dracula  # Manually switch to a theme
 
 Make sure your Kitty themes are stored at:
-~/.config/kitty/themes/themes/*.conf
+`~/.config/kitty/themes/themes/*.conf`
 
 
 
