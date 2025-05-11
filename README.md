@@ -31,7 +31,7 @@ A personalized `.bashrc` config focused on enhancing terminal productivity and t
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/yourusername/bashrc-dev-config.git
+git clone https://github.com/abhkpr/tuxrice.git
 
 # 2. Backup your existing bashrc
 cp ~/.bashrc ~/.bashrc.backup
